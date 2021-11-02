@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateusPincho
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning C language for Arduino 
+- 👀 I’m interested in robotics and I wanna be a fullstack dev!
+- 🌱 I'm actually learning HTML & CSS
 - 📫 My email is mateuspoliveira.ee@gmail.com
 
 <!---
