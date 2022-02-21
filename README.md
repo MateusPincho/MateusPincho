@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateusPincho
 - 👀 I’m interested in robotics and I wanna be a fullstack dev!
-- 🌱 I'm actually learning HTML & CSS
+- 🌱 I'm actually learning Python
 - 📫 My email is mateuspoliveira.ee@gmail.com
 
 <!---
