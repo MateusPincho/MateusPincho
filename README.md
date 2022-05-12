@@ -8,7 +8,7 @@
 
 - 📫 My email is mateuspoliveira.ee@gmail.com
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -20,7 +20,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
