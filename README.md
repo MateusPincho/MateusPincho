@@ -25,8 +25,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div >
-<img width="360em" src="https://github-readme-stats.vercel.app/api?username=MateusPincho&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPincho&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api?username=MateusPincho&show_icons=true&theme=vision-friendly-dark" alt="mateus's stats"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPincho&layout=compact&theme=vision-friendly-dark" alt="mateus's most languages"/>
 </div>
 
 <!---
