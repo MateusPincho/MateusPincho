@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px">, I'm Mateus Pincho!</h1>
+<h1 align="left">Hi 👋, I'm Mateus Pincho!</h1>
 
 -  👨‍💻 Eletrical engineer student focused on learn how to programn 
 
