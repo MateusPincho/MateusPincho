@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in robotics and automation of processes
 
-- 🌱 I'm actually learning C++ OOP
+- 🌱 I'm actually learning about Camera Calibration process
 
 - 📫 My email is mateuspoliveira.ee@gmail.com
 
