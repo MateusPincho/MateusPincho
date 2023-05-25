@@ -4,9 +4,10 @@
 
 - 👀 I’m interested in robotics and automation of processes
 
-- 🌱 I'm actually learning about Camera Calibration process
+- 🌱 I'm actually learning about the Camera Calibration process and Drones construction
 
 - 📫 My email is mateuspoliveira.ee@gmail.com
+
 
 <br>
 
