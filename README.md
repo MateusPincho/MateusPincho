@@ -9,7 +9,6 @@
 - 📫 To contact, send me a [email](mateuspoliveira.ee@gmail.com)! 
 
 
-<br>
 
 <h2>About me</h2>
 I am an aspiring electrical engineer with a strong passion for technology and innovation. Currently pursuing my Bachelor's degree in Electrical Engineering since 2021, I am continuously seeking to expand my knowledge and skills in the field.
