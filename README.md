@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mateus Pincho!</h1>
+<h1 align="center">Hi 👋, I'm Mateus Pincho!</h1>
 
 -  👨‍💻 Eletrical engineer student focused on learn how to programn 
 
@@ -6,10 +6,36 @@
 
 - 🌱 I'm actually learning about the Camera Calibration process and Drones construction
 
-- 📫 To contact, send me a [email](mateuspoliveira.ee@gmail.com)! 
+<div align = "center">
+<a href="https://instagram.com/mateuspincho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mateus.oliveira@ee.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-pincho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<h2 align = "center">🛠 Tech Stack</h2>
+<div align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width = "40" height = "40"/>        
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width = "40" height = "40"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width = "40" height = "40"/>
 
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"  width = "40" height = "40"/>
+                
+<h2 align = "center">📚 Current Learning</h2>
+<div align = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width = "40" height = "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width = "40" height = "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"  width = "40" height = "40" />       
+</div>
+</div>
+<div>
 <h2>About me</h2>
 I am an aspiring electrical engineer with a strong passion for technology and innovation. Currently pursuing my Bachelor's degree in Electrical Engineering since 2021, I am continuously seeking to expand my knowledge and skills in the field.
 
@@ -21,19 +47,13 @@ I constantly seek challenges and opportunities to apply my knowledge and skills,
 
 If you are interested in collaborating on projects related to electrical engineering, robotics, or computer vision, I am open to new opportunities and partnerships. Let's connect and explore potential synergies!
 
+</div>
 
-## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ROS)&nbsp;
-![ROS](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-<br>
+<div>
+<a href="https://github.com/MateusPincho">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPincho&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusPincho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <!---
