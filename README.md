@@ -46,16 +46,6 @@ My areas of expertise include electronics, robotics, computer vision, mobile rob
 I constantly seek challenges and opportunities to apply my knowledge and skills, aiming to contribute to technological advancements and societal enhancement. I am a dedicated professional with strong problem-solving abilities, teamwork skills, and effective communication.
 
 If you are interested in collaborating on projects related to electrical engineering, robotics, or computer vision, I am open to new opportunities and partnerships. Let's connect and explore potential synergies!
-
-</div>
-
-<div>
-<a href="https://github.com/MateusPincho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPincho&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusPincho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
 <!---
 ## ⚙️ &nbsp;GitHub Analytics
 
