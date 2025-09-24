@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in robotics and automation of processes
 
-- 🌱 I'm actually learning about the Camera Calibration process and Drones construction
+- 🌱 I'm actually learning about the Path and Motion process for Autonomous Mobile Robots
 
 <div align = "center">
 <a href="https://instagram.com/mateuspincho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
