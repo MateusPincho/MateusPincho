@@ -11,7 +11,7 @@
 <a href = "mailto:mateus.oliveira@ee.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateus-pincho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<h2>🛠 Tech Stack</h2>
+<!-- <h2>🛠 Tech Stack</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"  width = "40" height = "40" />       
 </div>
 </div>
-<div>
+<div> -->
 <h2>About me</h2>
 I am an aspiring electrical engineer with a strong passion for technology and innovation. Currently pursuing my Bachelor's degree in Electrical Engineering since 2021, I am continuously seeking to expand my knowledge and skills in the field.
 
