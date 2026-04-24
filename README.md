@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mateus Pincho!</h1>
 
--  👨‍💻 Eletrical engineer student focused on learn how to programn 
+- 🤖 BSc. Electrical Engineering, with emphasis in Robotics and Automation 
 
-- 👀 I’m interested in robotics and automation of processes
+- 👨‍💻 I’m interested in Control Theory, Robotics, AI, Embedded Linux, Software Engineering and related fields
 
-- 🌱 I'm actually learning about the Path and Motion process for Autonomous Mobile Robots
+- 📚 I'm actually learning about Open Vocabulary Mapping
 
 <div align = "center">
 <a href="https://instagram.com/mateuspincho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mateus.oliveira@ee.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateus-pincho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<!-- <h2>🛠 Tech Stack</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<h2>🛠 Tech Stack</h2>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,ros,opencv,docker,linux,raspberrypi,latex&theme=dark" height="52" />
+  
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
@@ -22,9 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
-</div>            
-<h2 >📚 Current Learning</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/> -->
+</div>
+
+
+<!-- <h2 >📚 Current Learning</h2>
 <div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width = "40" height = "40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width = "40" height = "40"/>
